@@ -1,0 +1,14 @@
+name: dynamic-taxi
+channels:
+ - conda-forge
+ - defaults
+ - plotly
+ - pypi
+dependencies:
+ - python=3.6
+ - jupyter
+ - numpy
+ - pandas
+ - matplotlib
+ - seaborn
+ - folium
